@@ -1,4 +1,4 @@
-# -Power-Bi-Dashboards
+<img width="1172" height="665" alt="sample superstore dashboard" src="https://github.com/user-attachments/assets/b476efb4-1f5c-492b-adb4-148dc9757034" />         Power-Bi-Dashboards
 Superstore Sales & Profit Analysis Dashboard
 
 Project Overview
